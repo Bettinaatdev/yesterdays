@@ -28,12 +28,13 @@
 
 
 
-[page break]
+***
 
 
 
 
-Volunteer Roles
+## Volunteer Roles
+
 There are five (5) volunteer 'roles'. On each shift, please choose a role and accomplish as much as you can. You may switch roles whenever you like. The roles are:
 Customer Service
 This involves watching the Front Counter and serving customers.
@@ -46,7 +47,7 @@ This involves redecorating displays and mannequins with Good and Great Stock.
 Sorting Stock
 Sorting Stock involves sorting New Donations into the Wastebaskets marked "Good", and "Rubbish/Recycle" and moving them to their appropriate areas.
 
-[page break]
+***
  
 How to Choose a Role
 It depends on how many people are on-shift, 
