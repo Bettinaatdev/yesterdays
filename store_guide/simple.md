@@ -195,16 +195,16 @@ Each day, around noon, displays and mannequins are reviewed to ensure that they 
 ## Sorting Stock
 Donations are sorted into three (3) categories: Great, Good and Rubbish/Recycle. Each category (except Great) has a corresponding waste-basket. Each waste-basket is lined with large, black bags. After filling a waste-basket with appropriately sorted donations, the large, black bags are tied up and placed in good stock area.  Rubbish/Recycle, which is simply discarded.
 
-### Great
+#### Great
 These are unique, striking, or exceptionally valuable donations. These donations should be taken directly to the front counter to be priced and put on display.
 
-### Good
+#### Good
 These are donations that a reasonable person would purchase for the minimum price listed in the appropriate Simple Pricing Guide. These donations are put in bags marked "Good" and placed into the Good Stock area.
 
-### Bargain
+#### Bargain
 These are donations that a reasonable person would purchase for less than the lowest price listed in the appropriate pricing guide. These donations are sorted into the Good Stock Area.
 
-### Rubbish/Recycle
+#### Rubbish/Recycle
 Anything dirty, broken, electrical, or unsafe should be carefully discarded in the appropriate bin. If an item or container is very unpleasant or unsafe, please contact management for disposal. If the bins become full, please place Rubbish in the Rubbish Storage area.
 
 ***
