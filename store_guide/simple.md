@@ -36,20 +36,25 @@
 ## Volunteer Roles
 
 There are five (5) volunteer 'roles'. On each shift, please choose a role and accomplish as much as you can. You may switch roles whenever you like. The roles are:
-Customer Service
+
+### Customer Service
 This involves watching the Front Counter and serving customers.
-Pricing & Putting Out
+
+### Pricing & Putting Out
 This involves bringing bags marked as Good Stock to the Front Counter, pricing Good Stock according to the Simple Pricing Guide, and putting this Good Stock out instore. 
-Stock Rotation
+
+### Stock Rotation
 This involves checking the dates on stock. If the date is 2 weeks old, the item is Red Slashed down to half price. If an item is 1 month old, it is either re-priced at $2 and moved to the Bargain Room or discarded.
-Visual Merchandising
+
+### Visual Merchandising
 This involves redecorating displays and mannequins with Good and Great Stock.
-Sorting Stock
+
+### Sorting Stock
 Sorting Stock involves sorting New Donations into the Wastebaskets marked "Good", and "Rubbish/Recycle" and moving them to their appropriate areas.
 
 ***
  
-How to Choose a Role
+## How to Choose a Role
 It depends on how many people are on-shift, 
 If one (1) volunteer is on shift, they should focus on Customer Service and the Daily Routine Tasks.
 If two (2) volunteers are on shift, one (1) should focus on Customer Service and one (1) should focus on Sorting New Donations or Pricing and Putting Out Good Stock.
