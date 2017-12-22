@@ -7,17 +7,12 @@
 
 
 
->This guide references the **Simple Pricing Guide** 
-
->For a more thorough manual, please visit: **yesterdays.wikia.com**
-
->To discuss changes to this guide, please join us on: **loomio.org** 
-
->Please see the **OH&S** for health and safety information 
-
->Please also read the **Employee Rights and Policies Manual**
-
->Further online self-learning is available via **Rapid Induct**
+>This guide references the **Simple Pricing Guide**   
+>For a more thorough manual, please visit: **yesterdays.wikia.com**  
+>To discuss changes to this guide, please join us on: **loomio.org**  
+>Please see the **OH&S** for health and safety information  
+>Please also read the **Employee Rights and Policies Manual**  
+>Further online self-learning is available via **Rapid Induct**  
 
 ### Table of Contents
 1. Volunteer Roles	3
