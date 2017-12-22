@@ -14,15 +14,15 @@
 >Further online self-learning is available via Rapid Induct
 
 ### Table of Contents
-1.Volunteer Roles	3
-2.How to Choose a Role	4
-3.Customer Service	7
-4.Pricing & Putting Out	8
-5.Stock Rotation	9
-6.Merchandising	10
-7.Sorting Stock	11
-8.Opening the Store	12
-9.Closing the Store	13
+1. Volunteer Roles	3
+2. How to Choose a Role	4
+3. Customer Service	7
+4. Pricing & Putting Out	8
+5. Stock Rotation	9
+6. Merchandising	10
+7. Sorting Stock	11
+8. Opening the Store	12
+9. Closing the Store	13
 
 
 
