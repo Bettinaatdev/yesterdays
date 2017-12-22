@@ -67,11 +67,11 @@ Each additional volunteer should help in Sorting Stock in the Back Sorting Area.
 
 ### We also have ‘decision flow charts’ to guide us,
 Two (2) decision flow charts are provided in the following pages. This is a quick guide on how to read them to always know what you can be doing to help.
-### Front Counter
+#### Front Counter
 If the daily routines are covered, then price and put out new stock.
 If there is no room to put out new stock, then rotate month-old stock.
 If there is no sorted stock, then sort new donation or assist customers or visual merchandise
-### Back Area
+#### Back Area
 If the daily routines are covered, then Sort New Stock
 If there is no room for good stock, then take good stock out to the front counter
 If there is no room for bargain stock, then discard bargain stock into the bins
