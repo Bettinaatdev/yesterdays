@@ -131,11 +131,17 @@ To make sure stock keeps flowing, any stock that doesn't sell within 2 weeks is 
 Whenever the Sales Floor is full and there is Good Stock ready, please rotate stock to make room on the Sales Floor.
 
 **How to Rotate Stock:**
+
 •	Start anywhere in store and look for 2 week-old stock
+
 •	Find stock with price tags that have dates older than 2 weeks
+
 •	Use a red pen to draw a line through the old price
+
 •	Write the new, half price on the tag
+
 •	Place stock back on the rack
+
 •	If the stock is 1 month old, it is either tagged at $2 and moved to the Bargain Room or discarded
 
 
