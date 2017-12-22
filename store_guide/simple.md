@@ -65,7 +65,7 @@ If three (3) volunteers are on shift, one (1) should focus on Customer Service; 
 
 Each additional volunteer should help in Sorting Stock in the Back Sorting Area.
 
-## We also have ‘decision flow charts’ to guide us,
+### We also have ‘decision flow charts’ to guide us,
 Two (2) decision flow charts are provided in the following pages. This is a quick guide on how to read them to always know what you can be doing to help.
 ### Front Counter
 If the daily routines are covered, then price and put out new stock.
