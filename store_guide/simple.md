@@ -108,8 +108,7 @@ A friendly hello is often enough; if you feel like chatting, even better. And as
 
 ***
 
-## Pricing & Putting Out
-After being sorted, donations are priced according to the Simple Pricing Guide.
+## Pricing & Putting Out #### After being sorted, donations are priced according to the Simple Pricing Guide.
 
 ### For Bargain Stock, 
 items are hung onto the racks in the Bargain Room with $2 price tags.
