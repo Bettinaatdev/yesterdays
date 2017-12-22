@@ -156,18 +156,30 @@ Each day, around noon, displays and mannequins are reviewed to ensure that they 
 
 ### Rules of Thumb
 •	Rooms should feel open and spacious.
+
 •	Each mannequin should have 2-5 items (top, bottom, belt, jewellery, and/or hat). 
+
 •	Items displayed on flat surfaces should remain 1 inch apart.
-•	The Front Window boxes should have 1-3 items. Each item should be clearly visible from the sidewalk.
+
+•	The Front Window boxes should have 1-3 items. Each item should be clearly visible 
+
+  from the sidewalk.
 
 ### Visual elements to consider:
 •	Texture
+
 •	Theme
+
 •	Movement
+
 •	Narrative
+
 •	Colour
+
 •	Height
+
 •	White space
+
 •	Eye level
 
 ***
@@ -195,12 +207,19 @@ The procedures for opening the store vary over time. Significant changes will us
 **The elements that generally remain the same are as follows:**
 
 •	Turn on the lights
+
 •	Turn on the computer and sign in
+
 •	Turn on the music
+
 •	Turn on the air-conditioning if needed
+
 •	Unlock the back doors
+
 •	Replace the Closed sign on the front door with the Open sign
+
 •	Place the sandwich board on the opposite side of the footpath from the front door
+
 •	Display a moderate quantity of appealing stock in front of the store display areas
 
 
@@ -213,13 +232,23 @@ The procedures for closing the store vary over time. Significant changes will us
 **The elements that generally remain the same are as follows:**
 
 •	Bring inside the stock that is in front of the store
+
 •	Bring the sandwich board inside
+
 •	Replace the Open sign on the front door with the Closed sign
+
 •	Lock the doors
+
 •	Count the money in the till using the PoS
+
 •	Settle the EFTPOS
+
 •	Turn off the computer
+
 •	Turn off the music
+
 •	Turn off the lights
+
 •	Turn off the air-conditioners if on
+
 •	Exit and lock the front door
