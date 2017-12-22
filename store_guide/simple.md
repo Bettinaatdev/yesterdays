@@ -111,13 +111,23 @@ A friendly hello is often enough; if you feel like chatting, even better. And as
 ## Pricing & Putting Out
 After being sorted, donations are priced according to the Simple Pricing Guide.
 
-### For Bargain Stock,#### items are hung onto the racks in the Bargain Room with $2 price tags.
+### For Bargain Stock, 
+items are hung onto the racks in the Bargain Room with $2 price tags.
 
-### For apparel, #### prices are written in pen onto both sides of cardboard tags. These tags are then attached to clothing labels using a small, plastic tag gun. If an item of clothing has no labels, then the tags are attached through stitching or a button hole. If neither are available, tags with string loops can be used to tie tags onto apparel. Each tag must be dated in small handwriting (dd-mm) beside the word and symbol “Check ->”.
-### For jewellery,#### prices are written onto tags with string loops that are tied onto the jewellery. Each tag must be dated in small handwriting (dd-mm) beside the word and symbol “Check ->”.
-### For books, #### prices are written in pencil onto the top-left corner of the first non-colour page of the book. Books are not dated by hand. Date of entry is recorded by the Yesterdays Database app when scanned into the system through the PoS.
-### For other items, #### prices are written onto small stickers which are placed onto items in a way that is easy to find, but does not detract from the visual appeal of the item. Each tag must be dated in small handwriting (dd-mm) beside the word and symbol “Check ->”.
-### After being priced, #### stock should be put out onto the sales floor as soon as possible. The pace at which donations are put out onto the sales floor should match the pace at which donations are sorted.
+### For apparel, 
+prices are written in pen onto both sides of cardboard tags. These tags are then attached to clothing labels using a small, plastic tag gun. If an item of clothing has no labels, then the tags are attached through stitching or a button hole. If neither are available, tags with string loops can be used to tie tags onto apparel. Each tag must be dated in small handwriting (dd-mm) beside the word and symbol “Check ->”.
+
+### For jewellery,
+prices are written onto tags with string loops that are tied onto the jewellery. Each tag must be dated in small handwriting (dd-mm) beside the word and symbol “Check ->”.
+
+### For books,
+prices are written in pencil onto the top-left corner of the first non-colour page of the book. Books are not dated by hand. Date of entry is recorded by the Yesterdays Database app when scanned into the system through the PoS.
+
+### For other items,
+prices are written onto small stickers which are placed onto items in a way that is easy to find, but does not detract from the visual appeal of the item. Each tag must be dated in small handwriting (dd-mm) beside the word and symbol “Check ->”.
+
+### After being priced, ####        
+stock should be put out onto the sales floor as soon as possible. The pace at which donations are put out onto the sales floor should match the pace at which donations are sorted.
 
 ***
 
