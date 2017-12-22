@@ -230,9 +230,7 @@ The procedures for opening the store vary over time. Significant changes will us
 
 •	Display a moderate quantity of appealing stock in front of the store display areas
 
-
 ***
-
 
 ## Closing the Store
 The procedures for closing the store vary over time. Significant changes will usually be displayed as a notification in the PoS. Each day at mid-afternoon, the PoS will display a review checklist for StoreClose.
