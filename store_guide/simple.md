@@ -57,16 +57,20 @@ Sorting Stock involves sorting New Donations into the Wastebaskets marked "Good"
 ## How to Choose a Role
 ### It depends on how many people are on-shift, 
 If one (1) volunteer is on shift, they should focus on Customer Service and the Daily Routine Tasks.
+
 If two (2) volunteers are on shift, one (1) should focus on Customer Service and one (1) should focus on Sorting New Donations or Pricing and Putting Out Good Stock.
+
 If three (3) volunteers are on shift, one (1) should focus on Customer Service; one (1) should focus on Pricing and Putting Out Good Stock; and one (1) should focus on Sorting Stock in the Back Sorting Area.
+
 Each additional volunteer should help in Sorting Stock in the Back Sorting Area.
-### We also have ‘decision flow charts’ to guide us,
+
+## We also have ‘decision flow charts’ to guide us,
 Two (2) decision flow charts are provided in the following pages. This is a quick guide on how to read them to always know what you can be doing to help.
-## Front Counter
+### Front Counter
 If the daily routines are covered, then price and put out new stock.
 If there is no room to put out new stock, then rotate month-old stock.
 If there is no sorted stock, then sort new donation or assist customers or visual merchandise
-## Back Area
+### Back Area
 If the daily routines are covered, then Sort New Stock
 If there is no room for good stock, then take good stock out to the front counter
 If there is no room for bargain stock, then discard bargain stock into the bins
@@ -88,7 +92,9 @@ If there is no room for rubbish stock in bins, then move rubbish around the side
  
 ## Customer Service
 The Yesterdays Thrift stores - like much of traditional Paddington - are friendly and relaxed. Being helpful and polite to customers is important. 
+
 A friendly hello is often enough; if you feel like chatting, even better. And assisting customers with their shopping is an excellent way to make them feel welcome and well served.
+
 **The standard procedure for processing a sale goes as follows:**
 
 1.	Greet the customer as they approach the counter.
@@ -104,7 +110,9 @@ A friendly hello is often enough; if you feel like chatting, even better. And as
 
 ## Pricing & Putting Out
 After being sorted, donations are priced according to the Simple Pricing Guide.
+
 ### For Bargain Stock,#### items are hung onto the racks in the Bargain Room with $2 price tags.
+
 ### For apparel, #### prices are written in pen onto both sides of cardboard tags. These tags are then attached to clothing labels using a small, plastic tag gun. If an item of clothing has no labels, then the tags are attached through stitching or a button hole. If neither are available, tags with string loops can be used to tie tags onto apparel. Each tag must be dated in small handwriting (dd-mm) beside the word and symbol “Check ->”.
 ### For jewellery,#### prices are written onto tags with string loops that are tied onto the jewellery. Each tag must be dated in small handwriting (dd-mm) beside the word and symbol “Check ->”.
 ### For books, #### prices are written in pencil onto the top-left corner of the first non-colour page of the book. Books are not dated by hand. Date of entry is recorded by the Yesterdays Database app when scanned into the system through the PoS.
