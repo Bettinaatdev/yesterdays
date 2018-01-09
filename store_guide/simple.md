@@ -258,3 +258,11 @@ The procedures for closing the store vary over time. Significant changes will us
 •	Turn off the air-conditioners if on
 
 •	Exit and lock the front door
+
+***
+## Parking Policy
+
+Yesterdays Thrift Stores do not provide parking for Volunteers or Staff.
+Street parking as per signage is available.
+All available is primarily for customer use.
+
